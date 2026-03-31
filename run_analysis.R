@@ -4,7 +4,7 @@ setwd("C:/Dokumentumok/Data Science/")
 data_path <- "UCI HAR Dataset"
 
 ############################## 
-# 1: Merges the training and the test sets to create one data set.
+# 1: Loads and Merges the training and the test sets to create one data set.
 # Loads the training and test datasets.
 
 # Mérési adatok - X data
